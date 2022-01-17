@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## 2022.01.14
 
-You can use the [editor on GitHub](https://github.com/Ballking49/Texas/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+做一个用java语言的21点或者德州扑克
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 2022.01.15
 
-### Markdown
+eclipse新建java项目
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 2022.01.16
+- **扑克牌贴图**
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+- 新建包名（了解包名命名规则
+- 收藏编程学习网站（chorme收藏夹
+- 网站配色（Stylify Me
+- 考虑项目过程中遇到bug的情况决定编写文档（下载了java8说明文档，了解到markdown并开始使用）
+- **需求文档分析**
+## 2022.01.1
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ballking49/Texas/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
